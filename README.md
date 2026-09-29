@@ -76,7 +76,7 @@ Run the program and choose option **12** to load sample data. Then use option **
 - `UML.md` – UML class diagram
 - `TESTING.md` – manual test plan and expected results
 - `REPORT_DRAFT.md` – report content to be transferred to the final Word/PDF report
-- `docs/javadoc/index.html` – generated Javadoc entry point
+- `generate_javadoc.bat` – generates the required HTML Javadoc into `docs/javadoc/` before final submission
 
 ## Known Limitations
 
